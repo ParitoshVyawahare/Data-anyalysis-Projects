@@ -1,0 +1,1 @@
+This is my first Data Analytics project, where I applied the knowledge gained from the Google Data Analytics Certificate. The project involves using Python, Tableau, and SQL, which are among the top skills required for a career in Data Analytics.
